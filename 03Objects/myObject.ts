@@ -31,4 +31,7 @@ function createUser1(user: User){
     }
 }
 createUser1({name: "", email: "",isActive: true})
+
+
+
 export{}
