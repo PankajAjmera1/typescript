@@ -2,7 +2,7 @@
 // const MIDDLE = 1
 // const WINDOW = 2
 
-enum SeatChoice {
+enum SeatChoice{
     AISLE = 10,
     MIDDLE,
     WINDOW
